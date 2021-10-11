@@ -6,3 +6,6 @@
 ```
 install.packages(c("parallel", "foreach", "doParallel", "purrr", "dplyr", "tidyr", "expss", "filesstrings"))
 ```
+
+##### Input file format:
+> .VCs.tsv files    
