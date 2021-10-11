@@ -8,4 +8,4 @@ install.packages(c("parallel", "foreach", "doParallel", "purrr", "dplyr", "tidyr
 ```
 
 ##### Input file format:
-> *.VCs.tsv files    
+> *.VCs.tsv files (generated from Aparna's pipeline)    
