@@ -138,5 +138,5 @@ if (is_empty(files)==FALSE){
   file.move(files, "./# Export/b_initial_only", overwrite=TRUE)
 }
 rm("csv", "files", "numCores", "samples")
-print("All done! Please check the Export folder.")
+print("All done! Please check the "Export" folder.")
 
