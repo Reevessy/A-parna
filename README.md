@@ -1,5 +1,5 @@
-# Aparna
-**A data organizing tool for NGS data from JHU sequencing center (Aparna).**    
+# A-parna
+**A data organizing tool for NGS data from JHU sequencing center.**    
 *Current version: v1.2.0*
 
 ##### Please install the below R packages for the running environment:
